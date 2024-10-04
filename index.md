@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Bienvenue !"
 order: 2
 in_menu: true
 ---
