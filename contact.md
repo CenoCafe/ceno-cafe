@@ -15,10 +15,6 @@ Notre page [Instagram](https://www.instagram.com/ceno_cafe/)
 
 Pour venir chez nous : [laissez-vous guider](https://www.openstreetmap.org/?mlat=43.080669&mlon=5.893757#map=19/43.080669/5.893757) 
 
-
-
-
-
-
+![carte]({% link images/map.png %})
 
 Site crée grâce à [Scribouilli](https://scribouilli.org/) 
