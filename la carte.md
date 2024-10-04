@@ -1,6 +1,6 @@
 ---
 title: "La carte"
-order: 1
+order: 3
 in_menu: true
 ---
 ![carte snacking]({% link images/snacking.jpg %})

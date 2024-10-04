@@ -1,6 +1,6 @@
 ---
 title: "Le Céno Café, Coffee shop des Sablettes"
-order: 5
+order: 1
 in_menu: true
 ---
 ![mini brunch]({% link images/mini brunch.jpg %})
