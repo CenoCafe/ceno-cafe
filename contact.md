@@ -14,3 +14,11 @@ Notre page [Instagram](https://www.instagram.com/ceno_cafe/)
 ![logo fleche]({% link images/fleche.png %})2271 Corniche Georges Pompidou , La Seyne-sur-Mer, France
 
 Pour venir chez nous : [laissez-vous guider](https://www.openstreetmap.org/?mlat=43.080669&mlon=5.893757#map=19/43.080669/5.893757) 
+
+
+
+
+
+
+
+Site crée grâce à [Scribouilli](https://scribouilli.org/) 
