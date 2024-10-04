@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Bienvenue !
 
-# L'Échappée Belle
+Le **Céno Café** vous ouvre ses portes du jeudi au lundi, de 8h à 15h
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+![logo]({% link images/logoCeno.jpg %}) 
