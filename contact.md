@@ -5,9 +5,9 @@ in_menu: true
 ---
 ![les patrons]({% link images/patrons.jpg %})
 
-Notre page [Instagram](https://www.instagram.com/ceno_cafe/)
-
-[TripAdvisor](https://www.tripadvisor.fr/Restaurant_Review-g1080054-d10047571-Reviews-Ceno_Cafe-La_Seyne_sur_Mer_Var_Provence_Alpes_Cote_d_Azur.html)
+Notre page [Instagram](https://www.instagram.com/ceno_cafe/), 
+[TripAdvisor](https://www.tripadvisor.fr/Restaurant_Review-g1080054-d10047571-Reviews-Ceno_Cafe-La_Seyne_sur_Mer_Var_Provence_Alpes_Cote_d_Azur.html),
+[Facebook](https://www.facebook.com/p/C%C3%A9no-Caf%C3%A9-100038802951210/)
 
 ![logo tel]({% link images/tel.png %})06 50 83 70 81
 
