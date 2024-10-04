@@ -3,7 +3,12 @@ title: "Contact"
 order: 2
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+![les patrons]({% link images/patrons.jpg %})
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Notre page [Instagram](https://www.instagram.com/ceno_cafe/)
+
+![logo tel]({% link images/tel.png %}) 06 50 83 70 81
+
+![logo fleche]({% link images/fleche.png %}) 2271 Corniche Georges Pompidou , La Seyne-sur-Mer, France
+
+Pour venir chez nous : [open street map](https://www.openstreetmap.org/?mlat=43.080669&mlon=5.893757#map=19/43.080669/5.893757) 
