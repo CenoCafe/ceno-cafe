@@ -1,6 +1,6 @@
 ---
 title: "Le Céno Café, Coffee shop des Sablettes"
-order: 2
+order: 1
 in_menu: true
 ---
 # Bienvenue !
