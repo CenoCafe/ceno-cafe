@@ -5,9 +5,12 @@ in_menu: true
 ---
 # Bienvenue !
 
-Le **_Céno_** est un _Coffee Shop_ où tout est **fait maison**
-
-
-Le **Céno Café** vous ouvre ses portes du jeudi au lundi, de 8h à 15h
-
 ![logo]({% link images/logoCeno.jpg %}) 
+
+Le **_Céno_**, Coffee Shop ☕️ des Sablettes où tout est **fait maison**
+
+
+Le **_Céno Café_** vous ouvre ses portes du jeudi au lundi, de 8h à 15h
+
+
+![façade]({% link images/facade.jpg %}) 
