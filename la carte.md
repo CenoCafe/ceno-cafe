@@ -1,5 +1,5 @@
 ---
-title: "à la carte"
+title: "La carte"
 order: 1
 in_menu: true
 ---
