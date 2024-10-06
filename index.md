@@ -1,5 +1,5 @@
 ---
-title: "Le Céno Café, Coffee shop des Sablettes"
+title: "Le Céno Café"
 order: 1
 in_menu: true
 ---
